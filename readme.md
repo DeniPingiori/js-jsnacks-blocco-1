@@ -19,3 +19,15 @@ jsnack2 (cartella)
 - index.html
 - script.js`
 e così via (modificato) 
+
+SNACK1
+1. - creo array con i nomi
+2. - permetto all'user di inserire un nome 
+3. - dichiaro var di controllo e la setto a false
+4. - ciclo array
+5. - confronto valore ciclato con quello inserito da user
+6. - ? se sono uguali => imposto variabile di controllo a true
+7. - : altrimenti vado avanti con le iterazioni senza fare nulla
+8. - finito il ciclo controllo il valore della variabile di controllo
+9. - ? se è true => allora mostro il messaggio di benvenuto
+10. - : altrimenti dico che non è invitato
