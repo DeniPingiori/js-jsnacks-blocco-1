@@ -13,3 +13,5 @@ for (let i=0; i<6; i++) {
     }
 }
 
+//mostro array 
+console.log(numbers);
