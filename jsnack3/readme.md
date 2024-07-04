@@ -9,16 +9,8 @@ SNACK 3:
 Chiedi un numero di 4 cifre all’utente
 e calcola la somma di tutte le cifre che compongono il numero.
 BONUS:
-Il software deve chiedere per 10 volte all’utente di inserire un numero.
-Il programma stampa la somma di tutti i numeri inseriti.
-Numero push: 15 circa
-Create una sotto-cartella per ogni jsnack e riportate la consegna all'inizio del file js.
-La struttura dei file dovrebbe essere la seguente:
-`jsnack1 (cartella)
-- index.html
-- script.js
-jsnack2 (cartella)
-- index.html
+Il software deve chiedere per 10 volte all’utente di inserire un n
+
 - script.js`
 e così via (modificato) 
 
