@@ -22,7 +22,7 @@ e così via (modificato)
 
 SNACK1
 1. - creo array con i nomi
-2. - permetto all'user di inserire un nome 
+2. - permetto all'user di inserire un nome e recuper il mpulsante dal dom 
 3. - dichiaro var di controllo e la setto a false
 4. - ciclo array
 5. - confronto valore ciclato con quello inserito da user
