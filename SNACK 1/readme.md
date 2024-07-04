@@ -31,3 +31,5 @@ SNACK1
 8. - finito il ciclo controllo il valore della variabile di controllo
 9. - ? se è true => allora mostro il messaggio di benvenuto
 10. - : altrimenti dico che non è invitato
+
+SNACK 2 
