@@ -23,3 +23,11 @@ jsnack2 (cartella)
 e così via (modificato) 
 
 SNACK 3 
+1. - permetto all'utente di inserire un num di 4 cifre
+2. - ? se il num è di 4 cifre => calcolo somma delle cifre che lo compongono
+2.1 - scompongo il num in un array contenente le cifre che lo compongono min ogni posizione
+2.2 - dichiaro var che contiene somma dei num
+2.3 - ciclare array
+2.4 - sommo i numeri 
+2.5 - mostro risultato
+3. : altrimenti non faccio niente
