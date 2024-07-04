@@ -21,10 +21,10 @@ jsnack2 (cartella)
 e così via (modificato) 
 
 SNACK1
-1. - creo array con i nomi
-2. - permetto all'user di inserire un nome e recuper il mpulsante dal dom 
+1. - creo array con i nomi x
+2. - permetto all'user di inserire un nome e recuper il mpulsante dal dom x
 3. - dichiaro var di controllo e la setto a false
-4. - ciclo array
+4. - ciclo array x
 5. - confronto valore ciclato con quello inserito da user
 6. - ? se sono uguali => imposto variabile di controllo a true
 7. - : altrimenti vado avanti con le iterazioni senza fare nulla
